@@ -6,7 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferregus&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferregus&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-<div style="display: inline_block"><br>
+
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="GU-Az" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="GU-AWS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="GU-K8S" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
